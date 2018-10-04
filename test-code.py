@@ -29,7 +29,7 @@ while True:
 
     distance = sig_time*17000
 
-    print "Distance: %.2f cm"%distance
+    print "Distance: %.2f cm"%distance #print the answer
     time.sleep(0.05)
     
 
